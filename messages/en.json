@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "applications": "Applications",
+    "intelligence": "Intelligence",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "footer": {
+    "tagline": "Unified intelligence for research, business, and real-time market insights.",
+    "navigation": "Navigation",
+    "systemStatus": "System Status",
+    "allSystems": "All systems operational",
+    "aiModels": "AI models online",
+    "feeds": "Intelligence feeds active",
+    "email": "hello@aios.ai",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "rights": "All rights reserved."
+  }
+}

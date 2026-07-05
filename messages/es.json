@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel de control",
+    "applications": "Aplicaciones",
+    "intelligence": "Inteligencia",
+    "contact": "Contacto",
+    "getStarted": "Comenzar"
+  },
+  "footer": {
+    "tagline": "Inteligencia unificada para investigación, negocios e información de mercado en tiempo real.",
+    "navigation": "Navegación",
+    "systemStatus": "Estado del sistema",
+    "allSystems": "Todos los sistemas operativos",
+    "aiModels": "Modelos de IA en línea",
+    "feeds": "Fuentes de inteligencia activas",
+    "email": "hello@aios.ai",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "rights": "Todos los derechos reservados."
+  }
+}

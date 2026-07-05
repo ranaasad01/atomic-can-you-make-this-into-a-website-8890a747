@@ -9,6 +9,14 @@ export const navLinks: NavLink[] = [
   { label: "Applications", href: "#applications" },
   { label: "Intelligence", href: "#intelligence" },
   { label: "Contact", href: "#contact" },
+  { label: "Research", href: "/research" },
+  { label: "Business", href: "/business" },
+  { label: "Finance", href: "/finance" },
+  { label: "Documents", href: "/documents" },
+  { label: "Truth Verify", href: "/truth-verify" },
+  { label: "Agents", href: "/agents" },
+  { label: "Internet", href: "/internet" },
+  { label: "Profile", href: "/profile" },
 ];
 
 export const navCTA = {
